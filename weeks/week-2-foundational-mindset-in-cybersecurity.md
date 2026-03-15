@@ -1,12 +1,10 @@
 # 🔐 Cybersecurity Learning Series — Week 2
 
-## The Foundational Mindset in Cybersecurity
-
 Last week, in **Week 1** of this series, we explored an important question:
 
 **What is Cybersecurity and why does it exist?**
 
-While continuing this journey, it becomes clear that before diving into tools, certifications, or hacking techniques, there is something even more important.
+While continuing my learning journey, I realized something important:
 
 Before tools.  
 Before certifications.  
@@ -80,8 +78,8 @@ Cybersecurity is not just about tools or technology.
 
 It’s about **how you think, how you analyze systems, and how you approach problems**.
 
-Building the right mindset is the **first step toward becoming a strong security professional**.
+And building the right mindset is the **first step toward becoming a strong security professional**.
 
 ---
 
-> **Note:** Patience is essential in cybersecurity, Instant results sirf Maggi mein milte hain. 🍜😄
+> **Note:** Patience is essential in cybersecurity. Instant results sirf Maggi mein milte hain. 🍜😄
