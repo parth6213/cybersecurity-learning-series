@@ -14,6 +14,14 @@ Understanding what cybersecurity is, why it exists, and why protecting digital s
 
 ---
 
+![Week 2 Banner](images/week2-banner.png)
+
+Understanding the foundational mindset required to succeed in cybersecurity.
+
+-[Week 2 – The Foundational Mindset in Cybersecurity](weeks/week-2-foundational-mindset-in-cybersecurity.md)
+
+---
+
 ## Author
 
 Parth Joshi  
