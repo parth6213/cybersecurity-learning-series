@@ -22,6 +22,14 @@ Understanding the foundational mindset required to succeed in cybersecurity.
 
 ---
 
+[![Week 3](images/week3-banner.png)](weeks/week-3-computer-fundamentals-part-1.md)
+
+Understanding how a computer actually works — from CPU and memory to operating systems — and why this knowledge is essential before diving into cybersecurity.
+
+* [Week 3 - Computer Fundamentals (Part 1)](weeks/week-3-computer-fundamentals-part-1.md)
+
+---
+
 ## Author
 
 Parth Joshi  
