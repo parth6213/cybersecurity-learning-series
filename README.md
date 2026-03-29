@@ -30,6 +30,15 @@ Understanding how a computer actually works — from CPU and memory to operating
 
 ---
 
+[![Week 4](images/week4-banner.png)](weeks/week-4-computer-fundamentals-part-2.md)
+
+Understanding how applications actually run — from programs to processes and threads — and why this knowledge is important in cybersecurity.
+
+- [Week 4 - Computer Fundamentals (Part 2)](weeks/week-4-computer-fundamentals-part-2.md)
+
+---
+
+
 ## Author
 
 Parth Joshi  
