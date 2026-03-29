@@ -1,8 +1,8 @@
 # Cybersecurity Learning Series
 
-This repository documents my weekly cybersecurity learning journey.
+This repository provides a structured cybersecurity learning series designed for beginners.
 
-Each week I explore new cybersecurity concepts and document what I learn.
+It is not just a personal learning log, but a guided path to help anyone understand cybersecurity in the correct order — from fundamentals to advanced concepts — and build a strong foundation for a career in cybersecurity.
 
 ---
 
